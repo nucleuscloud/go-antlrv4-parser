@@ -1,6 +1,6 @@
 module github.com/nucleuscloud/go-antlrv4-parser
 
-go 1.23.0
+go 1.22.2
 
 require github.com/antlr4-go/antlr/v4 v4.13.1
 
